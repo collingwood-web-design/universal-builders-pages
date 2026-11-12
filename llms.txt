@@ -5,7 +5,7 @@
 ## Site
 - Home: https://universalbuilders.ca/
 - Services: https://universalbuilders.ca/services
-- FAQ’s (hiring a contractor): https://universalbuilders.ca/faqs
+- Hiring Tips (how to hire a building contractor): https://universalbuilders.ca/faqs
 - About Us: https://universalbuilders.ca/about-us
 
 ## Business
